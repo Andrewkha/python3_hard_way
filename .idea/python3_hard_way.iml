@@ -5,6 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/projects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/projects/skeleton/NAME" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/projects/skeleton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ex47/ex47" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ex47" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/ex47/tests" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (python3_hard_way)" jdkType="Python SDK" />

@@ -11,9 +11,9 @@ config = {
     'author_email': 'chernyshov.andrey@gmail.com',
     'version': '0.1',
     'install_requires': ['nose'],
-    'packages': ['NAME'],
+    'packages': ['ex47'],
     'scripts': [],
-    'name': 'projectname'
+    'name': 'exercise47'
 }
 
-setup(**config, install_requires=['nose'])
+setup(**config)
