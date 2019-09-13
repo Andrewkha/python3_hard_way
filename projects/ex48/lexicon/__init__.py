@@ -1,2 +1,2 @@
-from lexicon.code import *
-from lexicon.parser import *
+from .code import *
+from .parser import *
